@@ -1,9 +1,13 @@
 # Comment lancer les scripts de la WebApp
 
   -Clonez le dépôt sur votre ordinateur en utilisant la commande git clone https://github.com/Delacroix-75020/Youtube-NoSQL-Projet.
+  
   -Accédez au répertoire du projet en utilisant la commande cd nom-du-depot.
+  
   -Installez les dépendances en utilisant la commande npm install.
+  
   -Lancez l'application en utilisant la commande npm start.
+  
   -Accédez à l'application en utilisant l'URL http://localhost:3000.
 
 # Répartition des tâches à travers les membres de notre groupe
