@@ -18,5 +18,4 @@
 
 # Support de présentation
 
-  Nous avons créé une présentation Powerpoint pour vous fournir un aperçu des principaux résultats de notre projet. Vous pouvez accéder à notre présentation en          
-  dans le Dossier Livrable
+  Nous avons créé une présentation Powerpoint pour vous fournir un aperçu des principaux résultats de notre projet. Vous pouvez accéder à notre présentation dans le Dossier Livrable
